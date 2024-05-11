@@ -1,3 +1,3 @@
 # Note App
 
-This is a sample project for learning backend and frontend development.
+Create sample apps to learn backend and webdevelopment. 
