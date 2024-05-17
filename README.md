@@ -1,6 +1,6 @@
-# Note App
+# Django Apps
 
-Create sample apps to learn backend and webdevelopment. 
+Create sample apps to learn fullstack webdevelopment in Django.
 
 ## Try out
 
